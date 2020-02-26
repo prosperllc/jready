@@ -61,5 +61,5 @@ docker run --rm -ti myjre
 java --version
 ```
 
-#Note to Prosper Engineers
+# Note to Prosper Engineers
 This is forked into our organization because at this time, it is used as the base image for our JDK 13 image. It's here in case the upstream repo ever disappears. You probably should never have to modify this repo. If for some reason we do have to modify it, we should push our changes upstream.
